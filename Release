@@ -1,0 +1,9 @@
+Origin: myh1000's Repo
+Label: myh1000's Repo
+Suite: stable
+Version: 1.0
+Codename: myh1000
+Architectures: iphoneos-arm
+Components: main
+Description: myh1000's Repo
+MD5Sum:
