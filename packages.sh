@@ -1,2 +1,2 @@
 #!/bin/sh
-# dpkg-deb -b Package
+dpkg-deb -b Package
