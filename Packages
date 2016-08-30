@@ -1,0 +1,17 @@
+Package: com.myh1000.disembark
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Michael Huang <myh1000@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.myh1000.disembark_1.0_iphoneos-arm.deb
+Size: 4678
+MD5sum: 2501b48b08005bfa7220b8476e6d36d4
+SHA1: f42df344f737921b49deb1c66c2f68701cea3575
+SHA256: 08e58e8f27644cb954545091acdc8291e0d5d3b41babc59f7d6f8e6c4dce4400
+Section: Tweaks
+Homepage: https://myh1000.github.io/cydia/
+Description: Don't have to go to settings to turn on stuff
+Author: Josh Doctors
+Name: Disembark
+

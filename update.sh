@@ -1,7 +1,7 @@
 #!/bin/sh
 ./remove.sh
-./packages.sh
 
-dpkg-scanpackages -m . /dev/null > Packages
+dpkg-scanpackages debs/ /dev/null > Packages
 
-bzip2 Packages
+# bzip2 Packages
+bzip2 -c9 Packages > Packages.bz2
