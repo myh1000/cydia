@@ -5,14 +5,13 @@ Maintainer: Michael Huang <myh1000@gmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: debs/com.myh1000.disembark_1.0_iphoneos-arm.deb
-Size: 4684
-MD5sum: bcf80c6b565c85da0196025b2bf9cb90
-SHA1: 88ed982ab4c3a8bd5215d3b869283297468128ca
-SHA256: 3b67fd9658b199ad2fb8d86ac4c336a418c209698e7fc09458e4ffbb8db85d86
+Size: 4706
+MD5sum: 48f9868ab74e033b88d25860bf0f8dfe
+SHA1: 9607ae1f484a6cf49cbb5e5d573f956373f310d9
+SHA256: cafa0dca9068bced0cdd8e733287c1de62b38ba9c6db7d64b725ae87582dd53a
 Section: Tweaks
-Homepage: https://myh1000.github.io/
-Description: Don't have to go to settings to turn on stuff
+Homepage: https://myh1000.github.io/cydia/
+Description: Turn on Cellular Data or Wi-Fi when alerted without going to Settings!
+//depiction: https://myh1000.github.io/cydia/
 Author: Josh Doctors
-Depiction: https://myh1000.github.io/cydia/
 Name: Disembark
-
