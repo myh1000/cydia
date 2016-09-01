@@ -1,14 +1,14 @@
 Package: com.myh1000.disembark
-Version: 1.0
+Version: 1.01
 Architecture: iphoneos-arm
 Maintainer: Michael Huang <myh1000@gmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs/com.myh1000.disembark_1.0_iphoneos-arm.deb
-Size: 4706
-MD5sum: 48f9868ab74e033b88d25860bf0f8dfe
-SHA1: 9607ae1f484a6cf49cbb5e5d573f956373f310d9
-SHA256: cafa0dca9068bced0cdd8e733287c1de62b38ba9c6db7d64b725ae87582dd53a
+Filename: debs/com.myh1000.disembark_1.01_iphoneos-arm.deb
+Size: 4720
+MD5sum: a602142b9864dde2d5c3b0d4408f9d7f
+SHA1: f5973cacf6c1e3cf240e12b145507f1856ae6f54
+SHA256: 4323a2eb9df7a7e459c64f92dc795f20612579e9d9704c21eac4d25135cd8f0e
 Section: Tweaks
 Homepage: https://myh1000.github.io/cydia/
 Description: Turn on Cellular Data or Wi-Fi when alerted without going to Settings!
